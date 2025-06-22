@@ -31,8 +31,7 @@ project-folder/
 
 ## 📸 Preview
 
-![Preview](https://via.placeholder.com/800x400?text=Image+Gallery+Preview)
-
+![Preview] https://mushbiqa29.github.io/image-gallery/
 
 ## 🛠 Built With
 
